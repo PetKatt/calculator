@@ -1,11 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 
 class Button extends React.Component {
 	render() {
 		return(
-			<div>
-				Welcome To Button
-			</div>
+			<button>
+				9
+			</button>
 		);
 	}
 }

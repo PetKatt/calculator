@@ -1,10 +1,12 @@
-import React, { Component } from "react";
+import React from "react";
 
 class Display extends React.Component {
 	render() {
 		return(
 			<div>
-				Welcome To Display
+				<div>
+					117
+				</div>
 			</div>
 		);
 	}
