@@ -1,7 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-
 import Button from "./Button";
+
+import "./ButtonPanel.css";
 
 class ButtonPanel extends React.Component {
 	handleClick = (buttonName) => {
